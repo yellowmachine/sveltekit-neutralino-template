@@ -10,6 +10,7 @@ npm run dev
 
 open other terminal:
 ```bash
+neu update
 neu run --frontend-lib-dev
 (or neu run -- --window-enable-inspector)
 ```
